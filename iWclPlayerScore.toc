@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: iWclPlayerScore
+## Version: 1.0.1
+## Author: zwj@oldgun@smth
+## DefaultState: enabled
+
+Data\srvdata.xml
+main.lua
