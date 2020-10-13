@@ -3565,7 +3565,7 @@ WP_Database = {
 ["Nastyfridge"] = "EB:667/87%EM:873/91%",
 ["Bigoldbear"] = "RT:407/65%LB:677/95%EM:738/90%",
 ["Cowzwithgunz"] = "ET:269/84%EB:697/92%EM:711/85%",
-["Insindiary"] = "RT:407/55%EB:610/84%LM:892/95%",
+["Insindiary"] = "RT:405/55%EB:610/84%LM:891/95%",
 ["Blackaddar"] = "RT:436/70%EB:560/80%EM:560/93%",
 ["Lucyanne"] = "CT:47/21%UB:158/43%RM:188/56%",
 ["Hine"] = "CT:10/7%CB:97/11%UM:209/40%",
@@ -3690,7 +3690,7 @@ WP_Database = {
 ["Poeperdoeks"] = "CB:27/0%",
 ["Kintrick"] = "RT:202/73%RB:404/63%EM:584/77%",
 ["Unblock"] = "UM:289/34%",
-["Ponzah"] = "RT:284/53%EB:624/85%EM:779/89%",
+["Ponzah"] = "RT:283/52%EB:624/85%EM:779/89%",
 ["Bearbum"] = "RT:112/50%EB:469/82%EM:732/92%",
 ["Hairyroar"] = "UT:184/25%EB:615/90%EM:619/83%",
 ["Flynnyblues"] = "UB:59/41%EM:601/81%",
@@ -7472,5 +7472,9 @@ WP_Database = {
 ["Apachai"] = "RM:291/60%",
 ["Shocktroopr"] = "UM:258/31%",
 ["Crazywombat"] = "ET:522/79%EB:686/88%EM:857/88%",
+["Mtd"] = "UT:97/39%RB:426/57%",
+["Roflsword"] = "CM:116/14%",
+["Shambuulance"] = "CT:93/9%RB:345/50%UM:351/38%",
+["Nexaddo"] = "CM:28/1%",
 }
 end
