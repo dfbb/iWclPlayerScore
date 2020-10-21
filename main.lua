@@ -8,7 +8,7 @@ local iWclPlayerScore = _G.LibStub("AceAddon-3.0"):NewAddon("iWclPlayerScore", "
 
 SLASH_WP_Commands1 = "/wcl"
 SlashCmdList["WP_Commands"] = function(msg)
-	print "iWclPlayerScore Version: 1.8.11 Date:20201021 "
+	print "iWclPlayerScore Version: 1.8.12 Date:20201021 "
 end
 
 local function expand(name)
@@ -151,7 +151,7 @@ if (IsModifiedClick("CHATLINK")) then
 			if WP_ShowPrintOnClick == true then
 				dstr = load_data(WP_TargetName)
 				if dstr then
-					DEFAULT_CHAT_FRAME:AddMessage('WCL评分 ' .. WP_TargetName .. ': ' .. dstr, 255, 209, 0)
+					DEFAULT_CHAT_FRAME:AddMessage('WCL ' .. WP_TargetName .. ': ' .. dstr, 255, 209, 0)
 				end
 			end
 		end
@@ -160,7 +160,7 @@ end
 end)
 
 local function printInfo(self)
-	print("|cFFFFFF00WCL评分-" .. self.value)
+	print("|cFFFFFF00WCL-" .. self.value)
 end
 
 hooksecurefunc("UnitPopup_ShowMenu", function(dropdownMenu, which, unit, name, userData)
@@ -176,7 +176,7 @@ hooksecurefunc("UnitPopup_ShowMenu", function(dropdownMenu, which, unit, name, u
 	if dstr and UnitExists(unit) and UnitIsPlayer(unit) then
 		local info = UIDropDownMenu_CreateInfo()
 		local s1,s2,s3 = strsplit(" ",dstr)
-		info.text = 'WCL评分: ' .. s1
+		info.text = 'WCL: ' .. s1
 		info.owner = which
 		info.notCheckable = 1
 		info.func = printInfo
@@ -205,7 +205,7 @@ function iWclPlayerScore:InitCode()
 			end
 			dstr = load_stop(WP_MouseoverName)
 			if dstr then
-				GameTooltip:AddLine("本服" .. dstr, 255, 209, 0)
+				GameTooltip:AddLine("Server " .. dstr, 255, 209, 0)
 			end
 			dstr = cut_str(load_data(WP_MouseoverName))
 			if dstr then
@@ -241,7 +241,7 @@ Chat_EventFrame:SetScript("OnEvent",
 	if name then
 		dstr = load_data(name)
 		if dstr then
-			print("|cFFFFFF00WCL 评分 " .. name .. ":" .. dstr )
+			print("|cFFFFFF00WCL " .. name .. ":" .. dstr )
 		end
 	end
 end)
