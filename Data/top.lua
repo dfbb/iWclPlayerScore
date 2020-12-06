@@ -100173,18 +100173,17 @@ end
 if(GetRealmName() == "Anathema")then
 STOPG_Database = {
 ["Icelandic Gustavo Force"] = "Server SpeedRun No.1 Guild",
-["Paradigm"] = "Server SpeedRun No.2 Guild",
-["Gold Standard"] = "Server SpeedRun No.3 Guild",
-["Rabble Rousers"] = "Server SpeedRun No.4 Guild",
-["Anathema"] = "Server SpeedRun No.5 Guild",
-["Basic"] = "Server SpeedRun No.6 Guild",
-["Scary Pirates"] = "Server SpeedRun No.7 Guild",
-["Catalyst"] = "Server SpeedRun No.8 Guild",
-["Again"] = "Server SpeedRun No.9 Guild",
-["&lt;Deathwok Clan&gt;"] = "Server SpeedRun No.10 Guild",
-["Epidemic"] = "Server SpeedRun No.11 Guild",
-["Scary Pirates Weekend"] = "Server SpeedRun No.12 Guild",
-["Legion of Fury"] = "Server SpeedRun No.13 Guild",
+["Gold Standard"] = "Server SpeedRun No.2 Guild",
+["Rabble Rousers"] = "Server SpeedRun No.3 Guild",
+["Anathema"] = "Server SpeedRun No.4 Guild",
+["Basic"] = "Server SpeedRun No.5 Guild",
+["Scary Pirates"] = "Server SpeedRun No.6 Guild",
+["Catalyst"] = "Server SpeedRun No.7 Guild",
+["Again"] = "Server SpeedRun No.8 Guild",
+["&lt;Deathwok Clan&gt;"] = "Server SpeedRun No.9 Guild",
+["Epidemic"] = "Server SpeedRun No.10 Guild",
+["Scary Pirates Weekend"] = "Server SpeedRun No.11 Guild",
+["Legion of Fury"] = "Server SpeedRun No.12 Guild",
 }
 end
 
