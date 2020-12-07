@@ -23836,7 +23836,7 @@ STOPG_Database = {
 ["Lorem Ipsum"] = "Server SpeedRun No.46 Guild",
 ["Half Empty"] = "Server SpeedRun No.47 Guild",
 ["Bifrost"] = "Server SpeedRun No.48 Guild",
-["Bregott &amp; Nemi&#039;s PUG"] = "Server SpeedRun No.49 Guild",
+["The BearPUG"] = "Server SpeedRun No.49 Guild",
 ["The guild of one idiot"] = "Server SpeedRun No.50 Guild",
 }
 end
@@ -55879,8 +55879,8 @@ STOPG_Database = {
 ["망한시드"] = "Server SpeedRun No.27 Guild",
 ["NC막공"] = "Server SpeedRun No.28 Guild",
 ["Doom Hammer 1"] = "Server SpeedRun No.29 Guild",
-["뿌삐뿌"] = "Server SpeedRun No.30 Guild",
-["도톨도톨"] = "Server SpeedRun No.31 Guild",
+["도톨도톨"] = "Server SpeedRun No.30 Guild",
+["뿌삐뿌"] = "Server SpeedRun No.31 Guild",
 ["얼피막공인생"] = "Server SpeedRun No.32 Guild",
 ["MR공대"] = "Server SpeedRun No.33 Guild",
 ["ever free"] = "Server SpeedRun No.34 Guild",
