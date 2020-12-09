@@ -4212,7 +4212,7 @@ end
 
 if(GetRealmName() == "Hydraxian Waterlords")then
 STOPG_Database = {
-["Ezi &lt;Win&gt;"] = "Server SpeedRun No.1 Guild",
+["Ezi&#039;s CASUAL PUG"] = "Server SpeedRun No.1 Guild",
 ["Caelum"] = "Server SpeedRun No.2 Guild",
 ["Taverns of Time"] = "Server SpeedRun No.3 Guild",
 ["Relic Hunters"] = "Server SpeedRun No.4 Guild",
@@ -29140,7 +29140,7 @@ STOPG_Database = {
 ["Standard Procedure"] = "Server SpeedRun No.25 Guild",
 ["Malevolence Reincarnate"] = "Server SpeedRun No.26 Guild",
 ["Los Boyos"] = "Server SpeedRun No.27 Guild",
-["RDD - PUG"] = "Server SpeedRun No.28 Guild",
+["RDD &amp; Quasar - PUG"] = "Server SpeedRun No.28 Guild",
 ["Nice Loot"] = "Server SpeedRun No.29 Guild",
 ["Noggaholics"] = "Server SpeedRun No.30 Guild",
 ["Rabiat"] = "Server SpeedRun No.31 Guild",
@@ -55872,7 +55872,7 @@ STOPG_Database = {
 ["바른생활-교육"] = "Server SpeedRun No.20 Guild",
 ["불휘 공대"] = "Server SpeedRun No.21 Guild",
 ["나비처럼날아 2공"] = "Server SpeedRun No.22 Guild",
-["유령공대(월)"] = "Server SpeedRun No.23 Guild",
+["유령공대"] = "Server SpeedRun No.23 Guild",
 ["TenBirds"] = "Server SpeedRun No.24 Guild",
 ["Doom Hammer 2"] = "Server SpeedRun No.25 Guild",
 ["나비처럼날아"] = "Server SpeedRun No.26 Guild",
@@ -84917,7 +84917,7 @@ STOPG_Database = {
 ["Causality"] = "Server SpeedRun No.1 Guild",
 ["Synergy - Tiger"] = "Server SpeedRun No.2 Guild",
 ["Origin"] = "Server SpeedRun No.3 Guild",
-["Causality R3"] = "Server SpeedRun No.4 Guild",
+["Causality - Bubba&#039;s Buccaneers"] = "Server SpeedRun No.4 Guild",
 ["Roof Koreans Soju"] = "Server SpeedRun No.5 Guild",
 ["Causality R4"] = "Server SpeedRun No.6 Guild",
 ["Synergy - Panda"] = "Server SpeedRun No.7 Guild",

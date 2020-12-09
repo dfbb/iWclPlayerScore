@@ -1396,9 +1396,13 @@ WP_Database = {
 ["Cith"] = "RB:179/53%",
 ["Ripcord"] = "CT:91/21%CB:93/9%UM:91/47%",
 ["Lorrae"] = "CT:48/5%",
-["Novd"] = "CT:91/13%UB:310/42%UM:153/46%",
+["Novd"] = "CT:30/13%UB:310/42%UM:153/46%",
 ["Wellrounded"] = "CB:58/11%CM:44/11%",
 ["Whaerloga"] = "CT:80/10%UM:261/26%",
 ["Nightcall"] = "CT:104/13%UB:111/27%CM:74/24%",
+["Ougly"] = "CT:34/24%",
+["Mcgingerson"] = "CT:27/11%",
+["Agni"] = "CT:7/0%",
+["Grinji"] = "CT:6/5%",
 }
 end
