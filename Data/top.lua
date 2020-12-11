@@ -84914,10 +84914,10 @@ end
 
 if(GetRealmName() == "Kurinnaxx")then
 STOPG_Database = {
-["Causality - Cherry&#039;s Simps"] = "Server SpeedRun No.1 Guild",
+["Causality - Red"] = "Server SpeedRun No.1 Guild",
 ["Synergy - Tiger"] = "Server SpeedRun No.2 Guild",
 ["Origin"] = "Server SpeedRun No.3 Guild",
-["Causality - Bubba&#039;s Buccaneers"] = "Server SpeedRun No.4 Guild",
+["Causality - Blue"] = "Server SpeedRun No.4 Guild",
 ["Roof Koreans Soju"] = "Server SpeedRun No.5 Guild",
 ["Causality R4"] = "Server SpeedRun No.6 Guild",
 ["Synergy - Panda"] = "Server SpeedRun No.7 Guild",
@@ -96751,7 +96751,7 @@ STOPG_Database = {
 ["NoDFT"] = "Server SpeedRun No.40 Guild",
 ["Nemesis"] = "Server SpeedRun No.41 Guild",
 ["Eternal Vengeance"] = "Server SpeedRun No.42 Guild",
-["&lt;There It Is&gt;"] = "Server SpeedRun No.43 Guild",
+["There It Is"] = "Server SpeedRun No.43 Guild",
 ["Phoenix"] = "Server SpeedRun No.44 Guild",
 ["Eternal Darkness Yang"] = "Server SpeedRun No.45 Guild",
 ["The Goonies"] = "Server SpeedRun No.46 Guild",
