@@ -12703,7 +12703,7 @@ STOPG_Database = {
 ["Well Played"] = "Server SpeedRun No.38 Guild",
 ["Zoo GDKP Pug"] = "Server SpeedRun No.39 Guild",
 ["Kartelli"] = "Server SpeedRun No.40 Guild",
-["Kartelli Pug"] = "Server SpeedRun No.41 Guild",
+["Via Dolorosa Pug"] = "Server SpeedRun No.41 Guild",
 ["a bunch of what"] = "Server SpeedRun No.42 Guild",
 ["HESOYAM"] = "Server SpeedRun No.43 Guild",
 ["Security GDKP"] = "Server SpeedRun No.44 Guild",
@@ -50069,8 +50069,7 @@ STOPG_Database = {
 ["Dead server"] = "Server SpeedRun No.9 Guild",
 ["Epidemic"] = "Server SpeedRun No.10 Guild",
 ["Aftermath"] = "Server SpeedRun No.11 Guild",
-["Contempt"] = "Server SpeedRun No.12 Guild",
-["YKTV"] = "Server SpeedRun No.13 Guild",
+["YKTV"] = "Server SpeedRun No.12 Guild",
 }
 end
 
