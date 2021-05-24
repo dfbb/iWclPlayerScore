@@ -1695,7 +1695,7 @@ WP_Database = {
 ["Balsawood"] = "UT:396/49%EB:672/92%",
 ["Faithplusone"] = "RM:495/74%UT:41/41%EB:629/87%",
 ["Ghoulie"] = "EB:686/93%",
-["Ankho"] = "EX:627/86%ET:710/91%EB:437/91%",
+["Ankho"] = "EX:627/86%ET:710/91%LB:437/95%",
 ["Boulderbeard"] = "EM:145/91%LT:755/95%LB:734/98%",
 ["Snoopaloop"] = "UM:268/46%RT:79/60%LB:731/96%",
 ["Realfakedoor"] = "EM:756/91%LT:355/96%LB:553/97%",
@@ -2718,7 +2718,7 @@ WP_Database = {
 ["Boewulf"] = "RM:408/64%UT:391/49%EB:432/84%",
 ["Thiccqt"] = "CM:2/0%ET:416/92%EB:643/89%",
 ["Catfishbilly"] = "CT:49/14%CB:105/23%",
-["Knawty"] = "ET:520/87%EB:650/89%",
+["Knawty"] = "ET:519/87%EB:650/89%",
 ["Vexcessive"] = "UT:74/26%RB:282/66%",
 ["Titolishes"] = "UM:144/37%LT:643/98%EB:688/92%",
 ["Sqwibor"] = "CM:82/16%UT:112/38%UB:353/48%",
@@ -11682,5 +11682,6 @@ WP_Database = {
 ["Spazy"] = "UT:63/38%CB:62/7%",
 ["Ixt"] = "RB:172/58%",
 ["Poplokndot"] = "UT:251/35%UB:256/33%",
+["Djehutymes"] = "RB:386/53%",
 }
 end
