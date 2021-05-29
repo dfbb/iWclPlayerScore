@@ -1128,5 +1128,6 @@ WP_Database = {
 ["Sille"] = "CT:27/15%",
 ["Oliverf"] = "UT:72/40%",
 ["Trailblazer"] = "RT:122/72%EB:322/90%",
+["Nalle"] = "UT:40/38%",
 }
 end
