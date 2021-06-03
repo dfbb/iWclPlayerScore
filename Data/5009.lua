@@ -21060,7 +21060,7 @@ WP_Database = {
 ["Jukes"] = "UM:373/29%CT:193/21%RB:457/65%",
 ["Flowmagex"] = "UT:229/47%RB:185/59%",
 ["Awh"] = "EB:277/84%",
-["Sunstoned"] = "EM:736/85%ET:365/81%EB:391/75%",
+["Sunstoned"] = "EX:736/85%ET:365/81%EB:391/75%",
 ["Pitfa"] = "CM:62/20%UT:53/34%RB:100/67%",
 ["Papashield"] = "ET:566/93%EB:295/83%",
 ["Zarkanya"] = "RB:44/58%",
@@ -21238,7 +21238,7 @@ WP_Database = {
 ["Ushouldgnome"] = "RB:399/55%",
 ["Strongrage"] = "UM:250/34%RT:400/65%UB:281/45%",
 ["Gamingtime"] = "RM:77/71%ET:595/83%EB:636/91%",
-["Eleanòr"] = "CT:72/8%UB:101/34%",
+["Eleanòr"] = "CT:72/8%RB:101/67%",
 ["Uvw"] = "CT:34/4%CB:172/21%",
 ["Wonkawilly"] = "EB:612/85%",
 ["Ninös"] = "EX:528/81%UT:74/47%EB:607/82%",
@@ -22563,5 +22563,6 @@ WP_Database = {
 ["Whaletheo"] = "CB:101/13%",
 ["Xareyn"] = "UX:143/27%CT:176/19%RB:481/69%",
 ["Munsty"] = "CX:25/19%UT:122/35%RB:374/59%",
+["Sugmah"] = "RX:395/69%ET:649/89%EB:536/79%",
 }
 end
