@@ -1,11 +1,11 @@
 if(GetRealmName() == "Celebras")then
 WP_Database = {
 ["Dayl"] = "LM:977/98%ST:570/99%LB:786/98%",
-["Farodar"] = "LM:1000/97%LT:479/98%LB:789/98%",
+["Farodar"] = "EM:702/85%",
 ["Surly"] = "EM:590/83%LT:470/98%LB:787/98%",
 ["Arrgram"] = "EM:753/94%ET:340/90%LB:761/96%",
 ["Lusy"] = "EM:653/87%LT:379/97%LB:770/97%",
-["Tragonas"] = "LM:936/97%LT:376/97%SB:639/99%",
+["Tragonas"] = "EM:663/84%",
 ["Rafaela"] = "ST:760/99%LB:769/96%",
 ["Tantalim"] = "EM:734/93%LT:447/95%EB:739/93%",
 ["Rostan"] = "RM:489/73%ET:231/91%EB:693/91%",
