@@ -1,6 +1,6 @@
 ## Interface: 11305
 ## Title: iWclPlayerScore
-## Version: 1.8.252
+## Version: 1.8.253
 ## Author: zwj@oldgun@smth
 ## DefaultState: enabled
 
