@@ -19054,5 +19054,15 @@ WP_Database = {
 ["Pokeybumankh"] = "CB:162/16%",
 ["Anarzk"] = "CT:30/4%",
 ["Ristorm"] = "UB:231/29%",
+["Tjocksmocken"] = "RM:150/64%UM:408/46%",
+["Quodx"] = "RM:182/73%EM:595/80%",
+["Kazuliopeepe"] = "RM:136/60%RM:492/55%",
+["Raizah"] = "RM:123/57%UM:345/43%",
+["Ptih"] = "UM:75/34%RM:491/59%",
+["Potofgreed"] = "RM:143/63%EM:822/92%",
+["Juicyjuice"] = "EM:214/81%SM:967/99%",
+["Axaristos"] = "RM:113/62%UM:243/40%",
+["Wollexus"] = "RM:177/74%RM:473/59%",
+["Hertzegovac"] = "EM:211/82%LM:896/97%",
 }
 end
