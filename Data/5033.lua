@@ -3867,7 +3867,7 @@ WP_Database = {
 ["Kathen"] = "ET:241/75%LB:615/95%EM:828/88%",
 ["Lillioni"] = "CT:45/14%EB:562/75%UM:413/44%",
 ["Enghzilla"] = "UB:322/36%RM:659/70%",
-["Igthorn"] = "EM:618/76%",
+["Igthorn"] = "EM:616/76%",
 ["Backe"] = "RX:392/69%ET:311/86%EB:639/83%",
 ["Crypta"] = "UT:135/47%EB:677/87%EM:474/80%",
 ["Escroaca"] = "CT:26/1%CB:172/21%UM:209/25%",
@@ -11659,7 +11659,7 @@ WP_Database = {
 ["Arnoldos"] = "EX:1239/94%ST:795/99%SB:804/99%",
 ["Wackem"] = "UM:232/49%",
 ["Markíemagíc"] = "EM:800/89%",
-["Bossmc"] = "UM:310/38%",
+["Bossmc"] = "UM:311/38%",
 ["Biggushornus"] = "UM:294/46%",
 ["Mcbones"] = "UM:139/31%",
 ["Omaruru"] = "UM:163/44%",
@@ -13436,6 +13436,6 @@ WP_Database = {
 ["Pepeloni"] = "CB:173/20%",
 ["Pite"] = "CT:66/21%CB:10/7%",
 ["Emberfox"] = "RM:505/60%",
-["Paulallen"] = "RM:570/69%",
+["Paulallen"] = "RM:564/68%",
 }
 end
