@@ -258,7 +258,7 @@ WP_Database = {
 ["Odesza"] = "CM:41/5%UM:329/31%",
 ["Snacks"] = "UM:488/36%ST:902/99%SB:824/99%",
 ["Kaelea"] = "ST:876/99%SB:803/99%",
-["Jarannar"] = "UM:121/49%RM:623/71%",
+["Jarannar"] = "UM:121/49%RM:622/71%",
 ["Lightenüp"] = "EM:1098/86%LT:859/98%LB:634/97%",
 ["Dustoff"] = "LM:1009/98%ST:738/99%EB:689/94%",
 ["Euongelion"] = "SM:1494/99%ST:945/99%SB:796/99%",
@@ -2992,7 +2992,7 @@ WP_Database = {
 ["Tukrok"] = "EM:535/86%LT:692/95%LB:738/96%",
 ["Osidian"] = "EM:702/90%ET:287/83%EB:443/94%",
 ["Athleet"] = "UM:268/28%ET:703/90%LB:770/96%",
-["Agaememnon"] = "RM:125/56%LM:352/95%",
+["Agaememnon"] = "RM:168/68%LM:423/96%",
 ["Remdogg"] = "SM:942/99%LT:737/95%LB:788/98%",
 ["Goodgame"] = "ET:690/92%LB:772/97%",
 ["Mxxpower"] = "RM:334/56%",
@@ -13975,5 +13975,6 @@ WP_Database = {
 ["Anjunafriend"] = "RM:223/72%EM:788/85%",
 ["Poapie"] = "UM:136/48%RM:585/68%",
 ["Rotholandus"] = "RM:181/70%EM:755/89%",
+["Thedarkhuntr"] = "RM:139/55%UM:416/43%",
 }
 end
