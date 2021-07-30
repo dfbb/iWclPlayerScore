@@ -7221,7 +7221,7 @@ WP_Database = {
 ["Clubsoda"] = "UB:105/26%",
 ["Slipnot"] = "EB:566/76%",
 ["Titangrip"] = "CB:181/19%",
-["Problemskim"] = "EM:158/76%",
+["Problemskim"] = "EM:157/75%",
 ["Sweetvida"] = "UM:70/26%CM:268/23%",
 ["Xerath"] = "RM:358/65%ET:530/77%EB:653/85%",
 ["Songa"] = "ET:306/86%RB:289/63%",
@@ -22922,5 +22922,6 @@ WP_Database = {
 ["Ibuggy"] = "LM:309/95%",
 ["Belfdelphine"] = "LM:321/98%SM:973/99%",
 ["Ekez"] = "SM:339/99%EM:782/85%",
+["Drjane"] = "LM:300/95%EM:763/84%",
 }
 end
