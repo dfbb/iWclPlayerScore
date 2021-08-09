@@ -19261,5 +19261,14 @@ WP_Database = {
 ["Skruff"] = "EM:281/93%SM:959/99%",
 ["Vop"] = "SM:330/99%EM:820/88%",
 ["Handjam"] = "LM:322/96%LM:905/95%",
+["Malzora"] = "UM:128/49%RM:591/66%",
+["Evencane"] = "RM:174/67%EM:696/82%",
+["Rakadin"] = "UM:70/28%RM:456/55%",
+["Crowmags"] = "UM:67/27%EM:222/83%",
+["Darkone"] = "CM:39/11%CM:94/4%",
+["Abyssal"] = "UM:103/38%UM:388/40%",
+["Zür"] = "UM:324/32%",
+["Ketamïne"] = "CM:57/19%RM:532/58%",
+["Moopee"] = "UM:125/47%CM:287/24%",
 }
 end
